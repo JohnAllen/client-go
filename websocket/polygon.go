@@ -11,7 +11,7 @@ import (
 
 	"github.com/cenkalti/backoff/v4"
 	"github.com/gorilla/websocket"
-	"github.com/polygon-io/client-go/websocket/models"
+	"github.com/johnallen/client-go/websocket/models"
 	"golang.org/x/exp/maps"
 	"golang.org/x/exp/slices"
 	"gopkg.in/tomb.v2"
